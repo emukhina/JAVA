@@ -29,5 +29,5 @@ bin/
 .DS_Store
 
 # доп. настройки
-.idea/
+/.idea/
 out/
